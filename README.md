@@ -1,8 +1,7 @@
 # Sandbox Escape Poc
 **A sandboxing study -- to complete**
 
-References:
-- [Has Mythos just broken the deal that kept the internet safe?, Martin Alderson](https://martinalderson.com/posts/has-mythos-just-broken-the-deal-that-kept-the-internet-safe/)
+References: [Has Mythos just broken the deal that kept the internet safe?, Martin Alderson](https://martinalderson.com/posts/has-mythos-just-broken-the-deal-that-kept-the-internet-safe/)
 
 ---
 
